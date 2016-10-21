@@ -103,5 +103,5 @@ And create "AndroidManifest.xml" under "Plugins/Android".
  
 ## How to use
 
-Here are the simple sdk unity project![simpleSdk](https://github.com/onelei/simpleSdk).
+Here are the simple sdk unity project ![simpleSdk](https://github.com/onelei/simpleSdk).
 
