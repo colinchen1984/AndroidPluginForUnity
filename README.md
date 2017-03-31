@@ -18,7 +18,13 @@ Unity version : 5.4.0p4
 ![unity icon](./image/plugin2.png)
 ![unity icon](./image/plugin3.png)
 
-**3**, Copy the unity classes.jar 
+**3**, Copy the unity classes.jar   
+win:  
+
+![unity icon](./image/unityClassesJar_win.png)  
+
+mac:
+
 ![unity icon](./image/setup1.png)
 to
 ![unity icon](./image/setup2.png)
